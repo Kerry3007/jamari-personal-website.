@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="t d">
+<title id="t">Presentation project graphic</title><desc id="d">A presentation screen with a title, image, and chart.</desc>
+<rect width="640" height="400" fill="#fff5e4"/>
+<rect x="83" y="58" width="474" height="266" rx="18" fill="#fff" stroke="#8a5520" stroke-width="8"/>
+<rect x="83" y="58" width="474" height="48" rx="18" fill="#8a5520"/>
+<rect x="116" y="137" width="184" height="18" rx="9" fill="#d29a32"/>
+<rect x="116" y="174" width="154" height="12" rx="6" fill="#decab3"/>
+<rect x="116" y="201" width="176" height="12" rx="6" fill="#decab3"/>
+<rect x="116" y="228" width="134" height="12" rx="6" fill="#decab3"/>
+<circle cx="420" cy="194" r="58" fill="#f2d4aa"/>
+<path d="M420 194V136a58 58 0 0 1 50 29Z" fill="#d29a32"/>
+<path d="M420 194l50-29a58 58 0 0 1-11 70Z" fill="#8a5520"/>
+<path d="M320 348h0M247 348h146" stroke="#8a5520" stroke-width="12" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="t d">
+<title id="t">Spreadsheet project graphic</title><desc id="d">A simple spreadsheet with a bar chart and formulas.</desc>
+<rect width="640" height="400" fill="#eef7f1"/>
+<rect x="86" y="54" width="468" height="292" rx="18" fill="#fff" stroke="#245d47" stroke-width="8"/>
+<rect x="86" y="54" width="468" height="50" rx="18" fill="#245d47"/>
+<g stroke="#c7ded3" stroke-width="3">
+<path d="M118 132h404M118 178h404M118 224h404M118 270h404M118 316h404"/>
+<path d="M188 118v214M278 118v214M368 118v214M458 118v214"/>
+</g>
+<rect x="205" y="247" width="44" height="68" fill="#8fc3aa"/>
+<rect x="295" y="211" width="44" height="104" fill="#4f8d70"/>
+<rect x="385" y="168" width="44" height="147" fill="#245d47"/>
+<path d="M130 150h40" stroke="#d29a32" stroke-width="8" stroke-linecap="round"/>
+</svg>
